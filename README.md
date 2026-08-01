@@ -71,4 +71,4 @@ Mid-build, the USB stick used as boot media began to fail (visible as a flashing
 
 ---
 
-*Part of my ongoing homelab series — see my [profile README](https://github.com/YOUR-USERNAME) for the full list of projects.*
+*Part of my ongoing homelab series — see my [profile README](https://github.com/SDGlover14) for the full list of projects.*
